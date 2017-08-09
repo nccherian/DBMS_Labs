@@ -1,0 +1,12 @@
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\obj\Debug\SeamEdu.csprojResolveAssemblyReference.cache
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\bin\Debug\SeamEdu.exe.config
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\bin\Debug\SeamEdu.exe
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\bin\Debug\SeamEdu.pdb
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\obj\Debug\SeamEdu.exe
+C:\Users\ag.student\Desktop\Duge\SeamEdu\SeamEdu\obj\Debug\SeamEdu.pdb
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\bin\Debug\SeamEdu.exe.config
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\bin\Debug\SeamEdu.exe
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\bin\Debug\SeamEdu.pdb
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\obj\Debug\SeamEdu.csprojResolveAssemblyReference.cache
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\obj\Debug\SeamEdu.exe
+C:\Users\ag.student\Desktop\SeamEdu\SeamEdu\obj\Debug\SeamEdu.pdb
